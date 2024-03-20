@@ -13,7 +13,7 @@ I finished my curriculum with the GPA 3.5/4.0, and I have achieved the Finalist 
 
 You can find my CV here:
 
-[Email](mailto:skyworldpaladin@outlook.com) / [Github] (https://skyworldpaladin.github.io/)
+[Email](mailto:skyworldpaladin@outlook.com) / [Github](https://skyworldpaladin.github.io/)
 
 <!-- 注释部分
 
