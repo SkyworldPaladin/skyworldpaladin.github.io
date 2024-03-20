@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student graduated from [Faculty of Information Science and Engineering](https://it.ouc.edu.cn/fise/) , [Ocean University of China](http://eweb.ouc.edu.cn/) (Project 985). I obtained my Bachelor degree of Computer Science in Summer 2022. I am interested in several research fields such as computer systems, computer vision and machine learning.
+I am a student graduated from [Faculty of Information Science and Engineering](https://it.ouc.edu.cn/fise/) , [Ocean University of China](http://eweb.ouc.edu.cn/) (Project 985 University). I obtained my Bachelor degree of Computer Science in Summer 2022. I am interested in several research fields such as computer systems, computer vision and machine learning.
 
 I finished my curriculum with the GPA 3.5/4.0, average score 87/100. I passed TOEFL-iBT in 2023/12 with the score 95. I achieved the Finalist award (Top 1% of all participants, the second highest award) in 2021 Mathematical Contest in Modeling (MCM).
 
