@@ -20,6 +20,10 @@ Grades
 * Average: 87/100
 * Credits: 170
 
+Certifications
+=====
+* TOEFL-iBT: 95 (Obtained in December 2023)
+
 
 Awards
 =====
