@@ -9,9 +9,9 @@ redirect_from:
 
 I am a student graduated from [Faculty of Information Science and Engineering](https://it.ouc.edu.cn/fise/) , [Ocean University of China](http://eweb.ouc.edu.cn/). My major is Computer Science and my interest includes computer systems, computer vision and machine learning.
 
-I finished my curriculum with the GPA 3.5/4.0, and I have achieved the Finalist award in the 2021 The Mathematical Contest in Modeling (MCM).
+I finished my curriculum with the GPA 3.5/4.0, average score 87/100. I passed TOEFL-iBT in 2023/12 scored 95. I have achieved the Finalist award in the 2021 The Mathematical Contest in Modeling (MCM).
 
-You can find my CV here:
+You can find my CV here:[cv](../files/cv.pdf)
 
 [Email](mailto:skyworldpaladin@outlook.com) / [Github](https://skyworldpaladin.github.io/)
 
