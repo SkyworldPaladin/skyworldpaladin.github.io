@@ -3,6 +3,8 @@ layout: archive
 title: "Awards"
 permalink: /awards/
 author_profile: true
+redirect_from:
+  - /awards
 ---
 
 2021 Mathematical Contest in Modeling (MCM) Finalist
