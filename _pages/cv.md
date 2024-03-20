@@ -11,10 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+###* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+###* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Computer Science, Ocean University of China, 2022
 
+Grades
+=====
+* GPA: 3.5/4.0
+* Average: 87/100
+* Credits: 170
+
+
+Awards
+=====
+* Finalist, 2021 MCM Contest
+
+<!-- 以下为注释
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
