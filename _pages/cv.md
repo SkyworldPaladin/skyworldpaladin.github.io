@@ -25,6 +25,9 @@ Awards
 =====
 * Finalist, 2021 MCM Contest
 
+
+For more details, please check [Liu Yunqing CV](../files/Liu Yunqing CV.pdf)
+
 <!-- 以下为注释
 Work experience
 ======
