@@ -11,7 +11,7 @@ I am a student graduated from [Faculty of Information Science and Engineering](h
 
 I finished my curriculum with the GPA 3.5/4.0, average score 87/100. I passed TOEFL-iBT in 2023/12 scored 95. I have achieved the Finalist award in the 2021 The Mathematical Contest in Modeling (MCM).
 
-You can find my CV here:[cv](../files/cv.pdf)
+You can find my CV here:[cv](../files/Liu Yunqing CV.pdf)
 
 [Email](mailto:skyworldpaladin@outlook.com) / [Github](https://skyworldpaladin.github.io/)
 
