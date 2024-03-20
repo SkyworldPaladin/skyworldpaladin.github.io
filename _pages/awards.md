@@ -5,4 +5,4 @@ permalink: /awards/
 author_profile: true
 ---
 
-[2113823.pdf](../awards/2113823.pdf)
+[2113823.pdf](../files/2113823.pdf)
